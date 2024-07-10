@@ -115,17 +115,3 @@ yarn dev
 ```
 
 Open [`http://localhost:3000`](http://localhost:3000) in your browser to view the project.
-
-
-
-
-
-
-
-
-
-
-
-
-
-Replace the placeholder values with your actual Liveblocks credentials. You can obtain these credentials by signing up on the [Liveblocks website](https://liveblocks.io).
